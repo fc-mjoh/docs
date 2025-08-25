@@ -7,7 +7,7 @@
         <mxCell id="NbQW37odatUNeAf5Amh3-3" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="NbQW37odatUNeAf5Amh3-1" target="NbQW37odatUNeAf5Amh3-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NbQW37odatUNeAf5Amh3-1" value="ThvAntrag-app," style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" parent="1" vertex="1">
+        <mxCell id="NbQW37odatUNeAf5Amh3-1" value="ThvAntrag-app." style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="140" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NbQW37odatUNeAf5Amh3-5" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="NbQW37odatUNeAf5Amh3-2" target="NbQW37odatUNeAf5Amh3-4" edge="1">
@@ -24,7 +24,7 @@
             <mxPoint x="377" y="302" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NbQW37odatUNeAf5Amh3-7" value="ThvAntrag-app," style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" parent="1" vertex="1">
+        <mxCell id="NbQW37odatUNeAf5Amh3-7" value="ThvAntrag-app." style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="137" y="272" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NbQW37odatUNeAf5Amh3-8" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" target="NbQW37odatUNeAf5Amh3-10" edge="1">
